@@ -1,4 +1,3 @@
-# AI-ML-BigData-Vision     
 ## AI/ML Branch    
 - **Descrpition:** This branch contains projects from small to large level related to Artificial Intelligence, Machine Learning, Big Data.  
 - **How to Navigate:**
